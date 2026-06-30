@@ -9121,7 +9121,7 @@ acetone_butanol_ethanol_fermentation			elements:C; main_element:C; electron_dono
 *Clostridium*saccharoperbutylacetonicum*			# Poehlein, Solano et al. (2017) - Microbial solvent formation revisited by comparative genome analysis,  Biotechnology for Biofuels 10;  DOI:10.1186/s13068-017-0742-z
 
 
-caproic_ acid_production_by_chain_elongation			elements:C; main_element:C; electron_donor:C; electron_acceptor:none; aerobic:no; exclusively_prokaryotic:yes; light_dependent:no
+caproic_acid_production_by_chain_elongation			elements:C; main_element:C; electron_donor:C; electron_acceptor:none; aerobic:no; exclusively_prokaryotic:yes; light_dependent:no
 # Two step process: acetate -> butyric acid; butyric acid -> caproic acid
 # Possible sources of acetate: (i) external source, e.g. provided by homoacetogens that synthesize acetate from CO2 via the  Wood-Ljungdahl; (ii) internally through non- non-saccharolytic fermentation of methanol, ethanol, lactic acid or pyruvate
 # Note:This category only contains upgrading caproic acid production. Caproic acid production by saccharolytic fermentation of sugars such as glucose and fructose is not covered.
@@ -9134,7 +9134,7 @@ caproic_ acid_production_by_chain_elongation			elements:C; main_element:C; elect
 *Rummeliibacillus*suwonensis*						# Liu, Du et al. (2022) - Production of caproic acid by Rummeliibacillus suwonensis 3B-1 isolated from the pit mud of strong-flavor baijiu, Journal of Biotechnology 358; DOI:10.1016/j.jbiotec.2022.08.017; caproic acid production from actetate, lactate and glucose
 
 
-caproic_ acid_production_by_ saccharolytic fermentation			elements:C; main_element:C; electron_donor:C; electron_acceptor:none; aerobic:no; exclusively_prokaryotic:yes; light_dependent:no
+caproic_acid_production_by_ saccharolytic_fermentation			elements:C; main_element:C; electron_donor:C; electron_acceptor:none; aerobic:no; exclusively_prokaryotic:yes; light_dependent:no
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 *Megasphaera*hexanoica*								# Jeon, Choi et al. (2016) - Production of medium-chain carboxylic acids by Megasphaera sp. MH with supplemental electron acceptors, Biotechnology for Biofuels 9; DOI:10.1186/s13068-016-0549-3; caproic acid production from fructose
 *Megasphaera*indica*								# Lanjekar, Marathe et al. (2014) - Megasphaera indica sp. nov., an obligate anaerobic bacteria isolated from human faeces, IJSEM 64; DOI:10.1099/ijs.0.059816-0; caproic acid production from glucose
